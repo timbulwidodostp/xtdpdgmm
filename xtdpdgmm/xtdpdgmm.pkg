@@ -1,5 +1,10 @@
-d 'DEA': Data envelopment analysis
+d 'xtdpdgmm': Linear Dynamic Panel Data Models Based on Nonlinear Moment Conditions Use xtdpdgmm With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lxtdpdgmm.mlib
+f xtdpdgmm.ado
+f xtdpdgmm.sthlp
+f xtdpdgmm_estat.ado
+f xtdpdgmm_p.ado
+f xtdpdgmm_postestimation.sthlp
+f xtdpdgmmfe.ado
+f xtdpdgmmfe.sthlp
