@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtdpdgmm Linear Dynamic Panel Data Models Based on Nonlinear Moment Conditions Use xtdpdgmm With STATA 18
